@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TornadoCore
+- 👀 I’m interested in Arduino codes and C++.
+- 🌱 I’m currently learning Java programming language
+- 💞️ I’m looking to collaborate on proteus simulations using arduino.
+- 📫 You can get in touch with me on my email: ngopnado@gmail.com
